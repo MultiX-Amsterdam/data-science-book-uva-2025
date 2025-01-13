@@ -173,7 +173,7 @@ For students who followed the course last year, the structure of the course rema
 
 ## Hygiene
 
-Please follow [the advice from RIVM](https://www.rivm.nl/en/respiratory-infections) (National Institute for Public Health and the Environment) regarding respiratory infections. If you have symptoms associated with any respiratory infections, please stay home. You can use the online lecture live stream, the lecture recordings, and TicketVise on Canvas to participate in the course, as documented in the [virtual/physical settings](#virtual-physical-settings) and [communication principles](#communication-principles).
+Please follow [the advice from RIVM](https://www.rivm.nl/en/respiratory-infections) (National Institute for Public Health and the Environment) regarding respiratory infections. If you have symptoms associated with any respiratory infections, please stay home. You can use the online lecture live stream, the lecture recordings, and TicketVise on Canvas to participate in the course, as documented in the [virtual/physical settings](#virtualphysical-settings) and [communication principles](#communication-principles).
 
 ## Course Registration
 

@@ -4,7 +4,7 @@ layout: default
 nav_order: 0
 ---
 
-# Course Overview
+# Course Overview (2025 Edition)
 
 (Last updated: Jan 13, 2025)
 
