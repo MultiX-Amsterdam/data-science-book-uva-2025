@@ -109,7 +109,7 @@ We are very strict on late submissions and how you submit your work. This policy
 
 Please carefully consider your submission time and do not wait until the last moment to do so, as you may run into unexpected issues (e.g., internet connection problems). **Late submissions will receive 10% of the partial grade's maximum points as a penalty per day (always rounded up to the next whole number).** The deduction goes until 0 grade. We use [Canvas's late submission policy feature](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-apply-a-Late-Submission-policy-in-the-Gradebook/ta-p/965) to implement this. We set the "Late submission deduction" to "10%" and the "Deduction interval" to "Day". We set the "Lowest possible grade" to "0%".
 
-For example, assume that the maximum number of points for a submission is 10. If a student makes the submission 1.2 days late, the late day will be rounded up to the next whole number, which will be 2 days. Then, the deduction will be (10%*10)*2=2 points. If the student’s original partial grade for the submission is 8, after applying the late submission policy, the grade will be 8-2=6.
+For example, assume that the maximum number of points for a submission is 10. If a student makes the submission 1.2 days late, the late day will be rounded up to the next whole number, which will be 2 days. Then, the deduction will be (10%\*10)\*2=2 points. If the student’s original partial grade for the submission is 8, after applying the late submission policy, the grade will be 8-2=6.
 
 For special requests (e.g., deadline extensions) due to personal circumstances that impact your learning, please check the [Support for Students Wellness](#support-for-students-wellness) section.
 
