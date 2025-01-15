@@ -1,7 +1,7 @@
 ---
 title: "L9: Image Data I"
 layout: default
-nav_order: 8
+nav_order: 9
 nav_exclude: true
 ---
 

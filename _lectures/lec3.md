@@ -1,7 +1,7 @@
 ---
 title: "L3: Structured Data I"
 layout: default
-nav_order: 2
+nav_order: 3
 nav_exclude: true
 ---
 

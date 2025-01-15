@@ -37,8 +37,8 @@ Below are the explanation of terms:
 
 - Week 1
   - [Lecture 1 (Feb 4 Tuesday)](lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
-  - Lecture 2 (Feb 5 Wednesday): Fundamentals of data science techniques (e.g., table operations, classification, regression)
-  - Practice 1: Python programming warm-up with Pandas and Numpy
+  - [Lecture 2 (Feb 5 Wednesday)](lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
+  - [Practice 1](https://multix.io/python-warm-up/): Python programming warm-up with Pandas and Numpy
   - For the seminar, work on Practice 1.
 - Week 2
   - Lecture 3 (Feb 11 Tuesday): Decision Tree and Random Forest for structured data processing

@@ -1,13 +1,12 @@
 ---
 title: "L2: Fundamentals"
 layout: default
-nav_order: 1
-nav_exclude: true
+nav_order: 2
 ---
 
 # Lecture 2: Data Science Fundamentals
 
-(Last updated: Jan 13, 2025)
+(Last updated: Jan 15, 2025)
 
 This lecture recaps the fundamentals of data science, such as table operations, classification, and regression.
 
