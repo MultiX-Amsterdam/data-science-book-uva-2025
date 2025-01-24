@@ -48,7 +48,6 @@ Below is a list of web books (in HTML form).
 - [Book of Human-Computer Interaction Concepts](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 - [Think Bayes](https://allendowney.github.io/ThinkBayes2/)
 - [Deep Learning](https://www.deeplearningbook.org)
-- [A Course in Machine Learning](http://ciml.info/)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [Machine Learning and Deep Learning Fundamentals](https://kenndanielso.github.io/mlrefined/index.html)

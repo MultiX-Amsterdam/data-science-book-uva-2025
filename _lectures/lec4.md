@@ -24,7 +24,7 @@ Follow the steps on the [assignment page](https://multix.io/structured-data-modu
 ## Additional Resources
 
 Below are the videos that students found useful in understanding more about the course materials:
-- [Pandas Resample | pd.DataFrame.resample()](https://www.youtube.com/watch?v=l4dvMiSDBzs)
+- [Pandas Resample](https://www.youtube.com/watch?v=l4dvMiSDBzs)
 - [Python Rolling Window Functions explained in 4 minutes](https://www.youtube.com/watch?v=7PqxHknEfn4)
 - [How to Use Pandas Rolling - A Simple Illustrated Guide](https://www.youtube.com/watch?v=cFS4uHaQtY0)
 - [Continuous vs Discrete Data](https://www.youtube.com/watch?v=cz4nPSA9rlc)
