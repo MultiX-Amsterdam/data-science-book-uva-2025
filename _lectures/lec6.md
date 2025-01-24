@@ -2,12 +2,11 @@
 title: "L6: PyTorch Basics"
 layout: default
 nav_order: 6
-nav_exclude: true
 ---
 
 # Lecture 6: PyTorch Basics
 
-(Last updated: Jan 13, 2025)
+(Last updated: Jan 24, 2025)
 
 This lecture gives an introduction about using the PyTorch deep learning framework.
 

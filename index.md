@@ -47,10 +47,10 @@ Below are the explanation of terms:
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Feb 18 Tuesday at 23:59`.
   - For the seminar, work on Assignment 1.
 - Week 3
-  - Lecture 5 (Feb 18 Tuesday): Overview of deep learning techniques and applications
-  - Lecture 6 (Feb 19 Wednesday): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
-  - Practice 2: PyTorch implementation of structured data processing
-  - For the seminar, work on the mock exam, Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
+  - [Lecture 5 (Feb 18 Tuesday)](lectures/lec5): Overview of deep learning techniques and applications
+  - [Lecture 6 (Feb 19 Wednesday)](lectures/lec6): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
+  - [Practice 2](https://multix.io/structured-data-module/docs/pytorch-structured-data.html): PyTorch implementation of structured data processing
+  - For the seminar, work on the [mock exams](others/mock-exam), Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
 - Week 4
   - <span style="color:red">**Mid-term exam (Feb 25 Tuesday)**</span>
   - A lecture to discuss the mid-term exam questions (Feb 26 Wednesday)
@@ -73,7 +73,7 @@ Below are the explanation of terms:
 - Week 7
   - Lecture 11 (Mar 18 Tuesday): Introduction of multimodal data processing
   - Lecture 12 (Mar 19 Wednesday): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ioannis Petros Samiotis](https://scholar.google.com/citations?user=CbB88ZoAAAAJ&hl=en), a postdoc researcher at CWI (Centrum Wiskunde & Informatica).
-  - For the seminar, work on the mock exam and [prepare for the final exam](syllabus#exam-preparation).
+  - For the seminar, work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
 - Week 8
   - <span style="color:red">**Final exam (Mar 25 Tuesday)**</span>
 
