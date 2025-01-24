@@ -41,9 +41,9 @@ Below are the explanation of terms:
   - [Practice 1](https://multix.io/python-warm-up/): Python programming warm-up with Pandas and Numpy
   - For the seminar, work on Practice 1.
 - Week 2
-  - Lecture 3 (Feb 11 Tuesday): Decision Tree and Random Forest for structured data processing
-  - Lecture 4 (Feb 12 Wednesday): Tutorial of the structured data processing module (using Jupyter Notebook)
-  - Assignment 1: Structured data processing module
+  - [Lecture 3 (Feb 11 Tuesday)](lectures/lec3): Decision Tree and Random Forest for structured data processing
+  - [Lecture 4 (Feb 12 Wednesday)](lectures/lec4): Tutorial of the structured data processing module (using Jupyter Notebook)
+  - [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html):: Structured data processing module
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Feb 18 Tuesday at 23:59`.
   - For the seminar, work on Assignment 1.
 - Week 3

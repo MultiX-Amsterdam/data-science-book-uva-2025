@@ -2,12 +2,11 @@
 title: "L3: Structured Data I"
 layout: default
 nav_order: 3
-nav_exclude: true
 ---
 
 # Lecture 3: Structured Data Processing (Part I)
 
-(Last updated: Jan 13, 2025)
+(Last updated: Jan 24, 2025)
 
 This lecture explains the theory of Decision Tree and Random Forest models that are used in the structured data processing module.
 
@@ -17,7 +16,7 @@ There is no preparation material for this lecture.
 
 ## Materials
 
-- [Slides for Lecture 4: Structured Data Processing (Decision Tree and Random Forest)]({{ site.baseurl }}/slides/lec4-1.pdf)
+- [Slides for Lecture 3: Structured Data Processing (Decision Tree and Random Forest)]({{ site.baseurl }}/slides/lec3-1.pdf)
 
 ## Additional Resources
 
