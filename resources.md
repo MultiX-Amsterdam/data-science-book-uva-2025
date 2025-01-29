@@ -25,7 +25,7 @@ The ML4Design course coordinator has agreed that I can use their notes as refere
 
 Below is a list of books (in PDF form).
 
-- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) and the [PDF file](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) and the [PDF file](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf.download.html)
 - [Columbia University Applied Data Science](https://columbia-applied-data-science.github.io/) and the [PDF file](https://columbia-applied-data-science.github.io/appdatasci.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/) and the [PDF file](https://mml-book.github.io/book/mml-book.pdf)
 - [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) and the [PDF file](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
@@ -77,6 +77,7 @@ Below is a list of course notes and materials for machine learning.
 - [Introduction to Machine Learning, Google LLC](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Machine Learning from Scratch, Harvard Medical School](https://github.com/DrugowitschLab/ML-from-scratch-seminar)
 - [APS360: Fundamentals of AI, University of Toronto](https://www.cs.toronto.edu/~lczhang/aps360_20191/)
+- [CS 168: The Modern Algorithmic Toolbox, Stanford University](https://web.stanford.edu/class/cs168/)
 
 ## Statistics Courses
 
