@@ -61,7 +61,7 @@ Below are the explanation of terms:
 - Week 5
   - [Lecture 7 (Mar 4 Tuesday)](lectures/lec7): Explain details in the pipeline of processing text data
   - [Lecture 8 (Mar 5 Wednesday)](lectures/lec8): Tutorial for the text data processing module (using Jupyter Notebook)
-  - [Assignment 2](https://multix.io/structured-data-module/docs/assignment-structured-data.html): Text data processing module
+  - [Assignment 2](https://multix.io/text-data-module/docs/assignment-text-data.html): Text data processing module
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Mar 11 Tuesday at 23:59`.
   - For the seminar, work on Assignment 2.
 - Week 6
