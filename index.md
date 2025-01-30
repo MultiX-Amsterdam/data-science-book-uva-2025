@@ -59,9 +59,9 @@ Below are the explanation of terms:
 > The mid-term exam covers materials from Lecture 1, Lecture 2, Lecture 3, Lecture 4, Lecture 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
 
 - Week 5
-  - Lecture 7 (Mar 4 Tuesday): Explain details in the pipeline of processing text data
-  - Lecture 8 (Mar 5 Wednesday): Tutorial for the text data processing module (using Jupyter Notebook)
-  - Assignment 2: Text data processing module
+  - [Lecture 7 (Mar 4 Tuesday)](lectures/lec7): Explain details in the pipeline of processing text data
+  - [Lecture 8 (Mar 5 Wednesday)](lectures/lec8): Tutorial for the text data processing module (using Jupyter Notebook)
+  - [Assignment 2](https://multix.io/structured-data-module/docs/assignment-structured-data.html): Text data processing module
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Mar 11 Tuesday at 23:59`.
   - For the seminar, work on Assignment 2.
 - Week 6
@@ -72,7 +72,7 @@ Below are the explanation of terms:
   - For the seminar, work on Assignment 3.
 - Week 7
   - Lecture 11 (Mar 18 Tuesday): Introduction of multimodal data processing
-  - Lecture 12 (Mar 19 Wednesday): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ioannis Petros Samiotis](https://scholar.google.com/citations?user=CbB88ZoAAAAJ&hl=en), a postdoc researcher at CWI (Centrum Wiskunde & Informatica).
+  - Lecture 12 (Mar 19 Wednesday): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ioannis Petros Samiotis](https://scholar.google.com/citations?user=CbB88ZoAAAAJ&hl=en).
   - For the seminar, work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
 - Week 8
   - <span style="color:red">**Final exam (Mar 25 Tuesday)**</span>

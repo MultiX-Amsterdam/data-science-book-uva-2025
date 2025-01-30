@@ -7,7 +7,7 @@ nav_exclude: true
 
 # Lecture 7: Text Data Processing (Part I)
 
-(Last updated: Jan 13, 2025)
+(Last updated: Jan 30, 2025)
 
 This lecture introduces the theory for text data processing, including preprocessing (tokenization, lemmatization, pos-tagging), word embeddings, topic modeling, sequence-to-sequence modeling, and the attention mechanism.
 
@@ -20,7 +20,7 @@ Watch the following videos to understand some math concepts that will be used in
 
 ## Materials
 
-- [Slides for Lecture 8: Text Data Processing]({{ site.baseurl }}/slides/lec8-1.pdf)
+- [Slides for Lecture 7: Text Data Processing]({{ site.baseurl }}/slides/lec7-1.pdf)
 
 ## Additional Resources
 

@@ -7,7 +7,7 @@ nav_exclude: true
 
 # Lecture 8: Text Data Processing (Part II)
 
-(Last updated: Jan 13, 2025)
+(Last updated: Jan 30, 2025)
 
 This lecture gives a tutorial about text data processing using a Jupyter Notebook. The learning goals can be found on [this link](https://multix.io/text-data-module/).
 
@@ -20,10 +20,7 @@ Do the [preparation](https://multix.io/text-data-module/docs/preparation-text-da
 Below is the link to the online notebook:
 - [Text Data Processing Tutorial Online Notebook](https://multix.io/text-data-module/docs/tutorial-text-data.html)
 
-Follow the steps below to set up the notebook:
-- Have the [JupyterLab](https://jupyter.org/install) environment ready.
-- Download the text data processing module from the [GitHub repository](https://github.com/MultiX-Amsterdam/text-data-module). Or you can also download the zip file from [this link](https://github.com/MultiX-Amsterdam/text-data-module/archive/refs/heads/main.zip).
-- Open the notebook file (`docs/tutorial-text-data.ipynb`) and start working on the tasks.
+Follow the steps on the [assignment page](https://multix.io/text-data-module/docs/assignment-text-data.html) to set up the notebook.
 
 ## Additional Resources
 
