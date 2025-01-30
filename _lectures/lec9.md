@@ -2,12 +2,11 @@
 title: "L9: Image Data I"
 layout: default
 nav_order: 9
-nav_exclude: true
 ---
 
 # Lecture 9: Image Data Processing (Part I)
 
-(Last updated: Jan 13, 2025)
+(Last updated: Jan 30, 2025)
 
 This lecture introduces the theory for image data processing, including the convolution operation, image filtering, and convolutional neural network.
 
@@ -24,8 +23,8 @@ Interact with the following website to check a live training demo using the MNIS
 
 ## Materials
 
-- [Slides for Lecture 10-1: Image Data Processing (Image Filtering)]({{ site.baseurl }}/slides/lec10-1.pdf)
-- [Slides for Lecture 10-2: Image Data Processing (Convolutional Neural Network)]({{ site.baseurl }}/slides/lec10-2.pdf)
+- [Slides for Lecture 9-1: Image Data Processing (Image Filtering)]({{ site.baseurl }}/slides/lec9-1.pdf)
+- [Slides for Lecture 9-2: Image Data Processing (Convolutional Neural Network)]({{ site.baseurl }}/slides/lec9-2.pdf)
 
 ## Additional Resources
 
