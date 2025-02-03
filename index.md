@@ -66,8 +66,8 @@ Below are the explanation of terms:
   - For the seminar, work on Assignment 2.
 - Week 6
   - [Lecture 9 (Mar 11 Tuesday)](lectures/lec9): Explain details in the pipeline of processing image data
-  - Lecture 10 (Mar 12 Wednesday): Tutorial for the image data processing module (using Jupyter Notebook)
-  - Assignment 3: Image data processing module
+  - [Lecture 10 (Mar 12 Wednesday)](lectures/lec10): Tutorial for the image data processing module (using Jupyter Notebook)
+  - [Assignment 3](https://multix.io/image-data-module/docs/assignment-image-data.html): Image data processing module
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Mar 18 Tuesday at 23:59`.
   - For the seminar, work on Assignment 3.
 - Week 7
