@@ -71,7 +71,7 @@ Below are the explanation of terms:
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Mar 18 Tuesday at 23:59`.
   - For the seminar, work on Assignment 3.
 - Week 7
-  - Lecture 11 (Mar 18 Tuesday): Introduction of multimodal data processing
+  - [Lecture 11 (Mar 18 Tuesday)](lectures/lec11): Introduction of multimodal data processing
   - Lecture 12 (Mar 19 Wednesday): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ioannis Petros Samiotis](https://scholar.google.com/citations?user=CbB88ZoAAAAJ&hl=en).
   - For the seminar, work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
 - Week 8

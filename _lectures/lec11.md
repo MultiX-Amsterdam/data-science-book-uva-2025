@@ -2,12 +2,11 @@
 title: "L11: Multimodal Data"
 layout: default
 nav_order: 11
-nav_exclude: true
 ---
 
 # Lecture 11: Multimodal Data Processing
 
-(Last updated: Jan 13, 2025)
+(Last updated: Feb 3, 2025)
 
 This lecture introduces the overall picture of machine learning tasks with multimodal data.
 
