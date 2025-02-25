@@ -158,11 +158,10 @@ For the final exam specifically, we aim to focus more on the newly introduced ma
 > Important Notice on the Exam Day
 >
 > - There are scrap papers at the exam location, and we will provide them to you if you need them.
-> - Please make sure to bring your ID. We will check your ID at the exam location.
+> - Please make sure to bring your IDs (**BOTH** student ID and government-issued ID). We will check your IDs at the exam location.
 > - You are only allowed to enter the exam room up to 30 minutes past the exam starting time. You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes). This is the university's rule and we need to follow it.
 > - You can only bring pens, snacks, drinks, the A4-size cheat sheet, and your ID to the exam room. Other things are not allowed and must be stored in the lockers, such as books, mobile phones, smart watches, coats, bags, etc.
 > - If you really need to go to the toilet, please raise your hand and notify the invigilators. An invigilator will need to accompany and wait for you outside the toilet.
-> - When you finish the exam, you need to sign the attendance list before leaving the room.
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. This is the university's rule.
