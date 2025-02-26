@@ -107,6 +107,9 @@ We are very strict on late submissions and how you submit your work. This policy
 {: .warning }
 > We do not accept submissions via email.
 
+{: .warning }
+> Always double-check your submissions by downloading them and checking if they work. If we cannot grade your submission due to reasons on your side (e.g., corrupted files), the late submission penalty will still apply.
+
 Please carefully consider your submission time and do not wait until the last moment to do so, as you may run into unexpected issues (e.g., internet connection problems). **Late submissions will receive 10% of the partial grade's maximum points as a penalty per day (always rounded up to the next whole number).** The deduction goes until 0 grade. We use [Canvas's late submission policy feature](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-apply-a-Late-Submission-policy-in-the-Gradebook/ta-p/965) to implement this. We set the "Late submission deduction" to "10%" and the "Deduction interval" to "Day". We set the "Lowest possible grade" to "0%".
 
 For example, assume that the maximum number of points for a submission is 10. If a student makes the submission 1.2 days late, the late day will be rounded up to the next whole number, which will be 2 days. Then, the deduction will be (10%\*10)\*2=2 points. If the student’s original partial grade for the submission is 8, after applying the late submission policy, the grade will be 8-2=6.
@@ -158,10 +161,10 @@ For the final exam specifically, we aim to focus more on the newly introduced ma
 > Important Notice on the Exam Day
 >
 > - There are scrap papers at the exam location, and we will provide them to you if you need them.
-> - Please make sure to bring your IDs (**BOTH** student ID and government-issued ID). We will check your IDs at the exam location.
+> - Please make sure to bring your ID cards (**BOTH** student ID and government-issued ID). We will check your ID cards at the exam location.
 > - You are only allowed to enter the exam room up to 30 minutes past the exam starting time. You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes). This is the university's rule and we need to follow it.
-> - You can only bring pens, snacks, drinks, the A4-size cheat sheet, and your ID to the exam room. Other things are not allowed and must be stored in the lockers, such as books, mobile phones, smart watches, coats, bags, etc.
-> - If you really need to go to the toilet, please raise your hand and notify the invigilators. An invigilator will need to accompany and wait for you outside the toilet.
+> - You can only bring pens, snacks, drinks, one A4-size cheat sheet, and your ID cards to the exam room. Other things are not allowed and must be stored in the lockers, such as calculators, books, mobile phones, smart watches, coats, bags, etc.
+> - If you really need to go to the toilet, please raise your hand and notify the supervisors. A supervisor will need to accompany and wait for you outside the toilet.
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. This is the university's rule.
@@ -202,6 +205,9 @@ This course follows the [UvA Fraud and Plagiarism Regulations](https://student.u
 Class members are expected to treat others with mutual respect and appreciation regardless of any differences. It is our intent that students from diverse backgrounds and perspectives be well served by the course. In this way, we can create a safe environment for discussions.
 
 The best ways to contact TAs and the teaching team outside the lectures and seminars are via TicketVise (similar to the discussion board) on Canvas, the Inbox message on Canvas, or email. We prefer TicketVise as the questions can be allocated to the teaching team members based on their types. Also, other students may have the same question and thus can check TicketVise to get answers. For questions that are sensitive or may have privacy issues, please contact the course coordinator by email. Please keep in mind that responses from TAs and the teaching team could be delayed due to weekends or holidays.
+
+{: .important }
+> If you need quick feedback, always come to the seminars or lectures to seek support. Messages that are sent via emails, Canvas Inbox, and TicketVise are monitored on a weekly basis (not daily) and could be delayed.
 
 All course announcements will be on Canvas. We expect students to monitor Canvas periodically for any changes in deadlines, or any other announcements.
 
