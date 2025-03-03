@@ -80,9 +80,9 @@ There is no opportunity to do the resit for the reflective writing (10% weight).
 {: .warning }
 > The final exam and the resit will be more difficult than (or at least as difficult as) the mid-term exam since you have more time to study the materials. The resit will be at least as difficult as the final exam.
 
-The base grade for each exam is 1, and there is no minimum grade requirement for each exam to pass the course. The base grade only applies when you attend the exam. If you miss the exam, the grade will be 0 for that exam.
+The base grade for each exam is 1. The base grade only applies when you attend the exam. If you miss the exam, the grade will be 0 for that exam.
 
-According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), you need to get at least 5.5 in the final score (i.e., the weighted sum of the scores of all exams and assignments) to pass the course.
+According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), you need to get at least 5.5 in the final grade (i.e., the weighted sum of the scores of all exams and assignments) to pass the course. There is no minimum grade requirement for each exam (or weighted sum of exams) to pass the course. In other words, if you get less than 5.5 for the exams, you still have a chance to pass the course if you have a high grade for the assignments. Or, if you get a low grade for the mid-term exam, there is still a chance to pass the course if you have high grades for the assignments and the final exam.
 
 After each exam, the teaching team will grade the exam and release the grades as soon as possible. After the grade is released, we will announce on Canvas how students can inspect their exam results.
 
