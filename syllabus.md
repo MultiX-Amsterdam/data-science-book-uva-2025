@@ -43,7 +43,6 @@ By the end of the course, we expect you to be able to:
 
 This course expects you to have the following prior knowledge:
 - Intermediate level of Python programming (e.g., knowing different data types and data structures, knowing how to set up the Jupyter Notebook programming environment)
-- Basic level of machine learning (e.g., knowing what supervised and unsupervised learning means, understanding the differences between classification and regression)
 - Basic level of information visualization (e.g., knowing how to draw plots using Python packages, understanding the differences between a bar chart and histogram)
 
 ## Course Structure
