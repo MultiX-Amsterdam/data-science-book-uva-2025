@@ -57,6 +57,7 @@ Below is a list of web books (in HTML form).
 - [Pro Git](https://git-scm.com/doc)
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
 - [Handbook of Biological Statistics](https://www.biostathandbook.com/)
+- [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
 
 ## Machine Learning Courses
 
@@ -78,6 +79,7 @@ Below is a list of course notes and materials for machine learning.
 - [Machine Learning from Scratch, Harvard Medical School](https://github.com/DrugowitschLab/ML-from-scratch-seminar)
 - [APS360: Fundamentals of AI, University of Toronto](https://www.cs.toronto.edu/~lczhang/aps360_20191/)
 - [CS 168: The Modern Algorithmic Toolbox, Stanford University](https://web.stanford.edu/class/cs168/)
+- [17-645: Machine Learning in Production](https://ckaestne.github.io/seai/)
 
 ## Statistics Courses
 
