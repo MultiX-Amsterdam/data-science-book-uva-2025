@@ -79,7 +79,7 @@ Below is a list of course notes and materials for machine learning.
 - [Machine Learning from Scratch, Harvard Medical School](https://github.com/DrugowitschLab/ML-from-scratch-seminar)
 - [APS360: Fundamentals of AI, University of Toronto](https://www.cs.toronto.edu/~lczhang/aps360_20191/)
 - [CS 168: The Modern Algorithmic Toolbox, Stanford University](https://web.stanford.edu/class/cs168/)
-- [17-645: Machine Learning in Production](https://ckaestne.github.io/seai/)
+- [17-645: Machine Learning in Production](https://mlip-cmu.github.io/)
 
 ## Statistics Courses
 
@@ -145,9 +145,10 @@ Below is a list of course notes and materials for reinforcement learning.
 Below is a list of course notes and materials for human-centered AI topics:
 
 - [CS 329X: Human-Centered NLP, Stanford University](https://web.stanford.edu/class/cs329x/)
-- [I310D: Introduction to Human-Centered Data Science, University of Texas at Austin](https://www.ischool.utexas.edu/ischool-course-offerings?courseID=443)
+- [I310D: Introduction to Human-Centered Data Science, University of Texas at Austin](https://ischool.utexas.edu/programs/course-offerings/i-310d-introduction-human-centered-data-science)
 - [Human-Centered Data Science, FU Berlin](https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/Past-Terms/winter_term_2020_21/course_human_centered_data_science.html) and their [course materials](https://github.com/FUB-HCC/hcds-winter-2020)
 - [17-537: AI Methods for Social Good, Carnegie Mellon University](https://aiandsocialgoodlab.github.io/17737s24/)
+- [IST402: Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)
 
 ## Multimodal Learning Courses
 
