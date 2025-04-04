@@ -39,6 +39,7 @@ Below is a list of books (in PDF form).
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) and the [PDF file](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf)
 - [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) and the [PDF file downloading link](https://szeliski.org/Book/download.php)
 - [Deep Reinforcement Learning](https://deep-reinforcement-learning.net/) and the [PDF file downloading link](https://link.springer.com/book/10.1007/978-981-19-0638-1)
+- [How and When to Involve Crowds in Scientific Research](https://www.sciencewithcrowds.org/)
 
 ## Web Books
 
@@ -140,7 +141,7 @@ Below is a list of course notes and materials for reinforcement learning.
 - [10-703: Deep Reinforcement Learning, Carnegie Mellon University](https://cmudeeprl.github.io/703website_f22/)
 - [COMPM050: Reinforcement Learning, University College London](https://www.davidsilver.uk/teaching/)
 
-## Human-Centered AI Courses
+## Human-Centered AI and Human Computation Courses
 
 Below is a list of course notes and materials for human-centered AI topics:
 
@@ -148,7 +149,7 @@ Below is a list of course notes and materials for human-centered AI topics:
 - [I310D: Introduction to Human-Centered Data Science, University of Texas at Austin](https://ischool.utexas.edu/programs/course-offerings/i-310d-introduction-human-centered-data-science)
 - [Human-Centered Data Science, FU Berlin](https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/Past-Terms/winter_term_2020_21/course_human_centered_data_science.html) and their [course materials](https://github.com/FUB-HCC/hcds-winter-2020)
 - [17-537: AI Methods for Social Good, Carnegie Mellon University](https://aiandsocialgoodlab.github.io/17737s24/)
-- [IST402: Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)
+- [IST402: Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/))
 
 ## Multimodal Learning Courses
 
