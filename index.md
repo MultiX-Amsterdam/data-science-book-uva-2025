@@ -22,7 +22,7 @@ All the content in this repository is licensed under [CC BY 4.0](https://creativ
 ## <a name="schedule"></a>Schedule Outline
 
 {: .warning }
-> We did this course for two years, so the content is fairly stable. However, some parts may still need improvement.
+> We did this course for two years for the third-year Bachelor students, so the content is fairly stable. However, some parts may still need improvement, and this is the first time that we teach the course for second-year Bachelor students.
 
 This section provides the outline of weekly activities. We strongly recommend you bring your laptop during the lectures for classroom activities.
 
