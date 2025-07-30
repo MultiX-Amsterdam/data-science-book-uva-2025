@@ -13,7 +13,7 @@ nav_order: 1
 - TOC
 {:toc}
 
-(Last updated: Jan 13, 2025)
+(Last updated: Jul 30, 2025)
 
 {: .highlight }
 > Data science is about turning rich data into **actionable insight** and making data **impactful**!
@@ -42,7 +42,7 @@ By the end of the course, we expect you to be able to:
 ## Prerequisites
 
 This course expects you to have the following prior knowledge:
-- Intermediate level of Python programming (e.g., knowing different data types and data structures, knowing how to set up the Jupyter Notebook programming environment)
+- Intermediate level of Python programming (e.g., knowing different data types and data structures, knowing how to set up the Jupyter Notebook programming environment, knowing how to install and import Python packages)
 - Basic level of information visualization (e.g., knowing how to draw plots using Python packages, understanding the differences between a bar chart and histogram)
 
 ## Course Structure
@@ -167,6 +167,9 @@ For the final exam specifically, we aim to focus more on the newly introduced ma
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. This is the university's rule.
+
+{: .warning }
+> Please follow the instructions in the exam room (or outside the room) to sit in specific rows. The room may host multiple exams at the same time, and we need to locate you to check the IDs. If you sit in other rows, we may not be able to locate you, and in this case, your exam result could be invalid.
 
 ## Policy for Retaking This Course
 
