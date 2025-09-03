@@ -59,6 +59,7 @@ Below is a list of web books (in HTML form).
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
 - [Handbook of Biological Statistics](https://www.biostathandbook.com/)
 - [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
+- [Notes for CS181: Machine Learning](https://onefishy.github.io/ML_notes/)
 
 ## Machine Learning Courses
 
