@@ -72,7 +72,7 @@ Below are the explanation of terms:
   - Seminar (Oct 10 Friday): Work on Assignment 3.
 - Week 7
   - [Lecture 11 (Oct 14 Tuesday)](lectures/lec11): Introduction of multimodal data processing
-  - Lecture 12 (Oct 16 Thursday): Guest lecture from TU Delft associate professor [Ujwal Gadiraju](https://ujwalgadiraju.com/) about crowdsourcing (the first hour) and review of final exam materials (the second hour).
+  - Lecture 12 (Oct 16 Thursday): Guest lecture from TU Delft associate professor [Ujwal Gadiraju](https://ujwalgadiraju.com/) about crowdsourcing (the first hour) and review of final exam materials (the second hour). Note that the guest lecture will NOT be recorded.
   - Seminar (Oct 17 Friday): Work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
 - Week 8
   - <span style="color:red">**Final exam (Oct 21 Tuesday)**</span>
