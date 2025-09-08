@@ -20,5 +20,6 @@ There is no preparation material for this lecture.
 
 ## Additional Resources
 
-Below is a video from StatQuest that explains the Decision Tree model nicely:
+Below are videos from StatQuest that explains the Decision Tree model and PCA nicely:
 - [Decision and Classification Trees, Clearly Explained](https://statquest.org/decision-and-classification-trees-clearly-explained/)
+- [Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
