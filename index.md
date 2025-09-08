@@ -6,7 +6,7 @@ nav_order: 0
 
 # Course Overview (2025 Edition)
 
-(Last updated: Jul 30, 2025)
+(Last updated: Sep 8, 2025)
 
 - Course Name: Data Science (2025/2026)
 - Program: The second year of Bachelor Informatiekunde (i.e., Information Science)
