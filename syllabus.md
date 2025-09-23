@@ -159,17 +159,19 @@ For the final exam specifically, we aim to focus more on the newly introduced ma
 {: .important-title }
 > Important Notice on the Exam Day
 >
-> - There are scrap papers at the exam location, and we will provide them to you if you need them.
-> - Please make sure to bring your ID cards (**BOTH** student ID and government-issued ID). We will check your ID cards at the exam location.
-> - You are only allowed to enter the exam room up to 30 minutes past the exam starting time. You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes). This is the university's rule and we need to follow it.
+> - Arrive 15 minutes early to prepare for logging into the computer and ANS.
+> - Bring your ID cards (**BOTH** student ID and government-issued ID). We will check your ID cards at the exam location.
+> - You are only allowed to enter the exam room up to 30 minutes past the exam starting time. The purpose of the rule is to prevent fraud. This is the university's rule.
+> - You are not allowed to leave the exam room during the first 30 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (because students can be late to the exam up to 30 minutes).
 > - You can only bring pens, snacks, drinks, one A4-size cheat sheet, and your ID cards to the exam room. Other things are not allowed and must be stored in the lockers, such as calculators, books, mobile phones, smart watches, coats, bags, etc.
 > - If you really need to go to the toilet, please raise your hand and notify the supervisors. A supervisor will need to accompany and wait for you outside the toilet.
+> - There are scrap papers at the exam location, and we will provide them.
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. This is the university's rule.
 
 {: .warning }
-> Please follow the instructions in the exam room (or outside the room) to sit in specific rows. The room may host multiple exams at the same time, and we need to locate you to check the IDs. If you sit in other rows, we may not be able to locate you, and in this case, your exam result could be invalid.
+> You must follow the instructions in the exam room (or outside the room) to sit in specific rows. The room may host multiple exams at the same time, and we need to locate you to check the IDs. If you sit in other rows, we may not be able to locate you, and in this case, your exam result could be invalid.
 
 ## Policy for Retaking This Course
 
