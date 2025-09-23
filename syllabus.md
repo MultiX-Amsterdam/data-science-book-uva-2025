@@ -127,7 +127,7 @@ Exams are onsite and will be conducted using the [ANS system](https://ans.app/).
 
 Exams contains only multiple-choice questions to test your general knowledge of data science and also coding knowledge. We will provide mock exams for you to practice.
 
-We will use guess correction for your score on the multiple-choice questions. Details about how the ANS system uses guess correction is in [this online document](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction).
+We will use guess correction for your score on the multiple-choice questions. Details about how the ANS system uses guess correction is in [this online document](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction). We enable the "Limit the guess correction to zero" option. The "Apply guess correction to answered questions only" option is disabled, which implies that you should always guess if you are not sure about the answer.
 
 {: .warning }
 > The University of Amsterdam owns the materials in this exam (e.g., the question sets), which means the materials are copyright-protected. You must keep the exam content confidential and are not allowed to copy or distribute the content in any form.
