@@ -273,6 +273,10 @@ You do not need to report the usage of generative AI, as we see it as a tool tha
 
 Our opinion is largely aligned with the views in this paper. We prefer embracing its benefits so that we can jointly understand how people use it, and thus can provide us opportunities and reflections about how this kind of tool should be used or regulated in the future.
 
+## Social Safety
+
+If you experience an unsafe situation or undesirable behaviour in this course or study program, you can turn to the [UvA Social Safety Support](https://www.uva.nl/en/about-the-uva/about-the-university/social-safety/social-safety.html) for help on how to deal with this.
+
 ## Resources
 
 We curated a [list of resources](resources) that inspired the development of this course. The course instructor greatly appreciates them.
