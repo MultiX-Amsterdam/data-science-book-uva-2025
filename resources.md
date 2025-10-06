@@ -60,6 +60,7 @@ Below is a list of web books (in HTML form).
 - [Handbook of Biological Statistics](https://www.biostathandbook.com/)
 - [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/#machine-learning-in-production-from-models-to-products)
 - [Notes for CS181: Machine Learning](https://onefishy.github.io/ML_notes/)
+- [Modern Approaches in Natural Language Processing](https://slds-lmu.github.io/seminar_nlp_ss20/)
 
 ## Machine Learning Courses
 
@@ -112,6 +113,7 @@ Below is a list of course notes and materials for deep learning.
 - [6.S191: Introduction to Deep Learning, Massachusetts Institute of Technology](http://introtodeeplearning.com/2022/index.html)
 - [Intro to Deep Learning, Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [CPSC 532S: Multimodal Learning with Vision, Language and Sound, University of British Columbia](https://www.cs.ubc.ca/~lsigal/teaching22_Term1.html)
+- [11-785: Introduction to Deep Learning (with videos), Carnegie Mellon University](https://deeplearning.cs.cmu.edu/F24/)
 
 ## Computer Vision Courses
 
