@@ -1,6 +1,6 @@
 # data-science-book-uva-2025
 
-This repository hosts the website for the data science course 2025 edition (Bachelor level) at the Informatics Institute, University of Amsterdam. The webite is built using [Just the Docs](https://just-the-docs.github.io/just-the-docs/). All the content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This repository hosts the website for the data science course 2025 edition (Bachelor level) at the Informatics Institute, University of Amsterdam. The webite is built using [Just the Docs](https://just-the-docs.github.io/just-the-docs/). All the non-code content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## just-the-docs-template
 
