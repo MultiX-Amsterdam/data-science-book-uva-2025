@@ -170,6 +170,7 @@ For the final exam specifically, we aim to focus more on the newly introduced ma
 > - You can only bring pens, snacks, drinks, one A4-size cheat sheet, and your ID cards to the exam room. Other things are not allowed and must be stored in the lockers, such as calculators, books, mobile phones, smart watches, coats, bags, etc.
 > - If you really need to go to the toilet, please raise your hand and notify the supervisors. A supervisor will need to accompany and wait for you outside the toilet.
 > - There are scrap papers at the exam location, and we will provide them.
+> - Once you start logging in to the computer, do NOT change seats. If you change the seat and the computer logs in later using your account, the other student who comes later and sits at the desk with the computer (that is logged in using your account) will share the same storage space for the Jupyter notebooks, which is strictly not allowed. If the login process takes too long, please raise your hand to inform the exam supervisors, and the technician in the room will help you.
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. This is the university's rule.
