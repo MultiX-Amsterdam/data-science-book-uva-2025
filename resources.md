@@ -40,6 +40,7 @@ Below is a list of books (in PDF form).
 - [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) and the [PDF file downloading link](https://szeliski.org/Book/download.php)
 - [Deep Reinforcement Learning](https://deep-reinforcement-learning.net/) and the [PDF file downloading link](https://link.springer.com/book/10.1007/978-981-19-0638-1)
 - [How and When to Involve Crowds in Scientific Research](https://www.sciencewithcrowds.org/)
+- [https://databookuw.com/](Data Driven Science & Engineering) and the [PDF file downloading link](https://databookuw.com/databook.pdf)
 
 ## Web Books
 
