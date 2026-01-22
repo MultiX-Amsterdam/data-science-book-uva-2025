@@ -8,9 +8,9 @@ nav_order: 0
 
 (Last updated: Jul 30, 2025)
 
-## Mid-term Exam
+Below we provide mid-term and final exams and the answers for you to practice. Do not look at the answers before doing them by yourself first.
 
-Below we provide mid-term exams from previous years and the answers.
+## Mid-term Exam
 
 - [Mock Mid-term Exam 2]({{ site.baseurl }}/files/mock-2-mid.pdf)
 - [Answer - Mock Mid-term Exam 2]({{ site.baseurl }}/files/mock-2-mid-ans.pdf)
@@ -18,8 +18,6 @@ Below we provide mid-term exams from previous years and the answers.
 - [Answer - Mock Mid-term Exam 1]({{ site.baseurl }}/files/mock-1-mid-ans.pdf)
 
 ## Final Exam
-
-Below we provide final exams from previous years and the answers.
 
 - [Mock Final Exam 2]({{ site.baseurl }}/files/mock-2-final.pdf)
 - [Answer - Mock Final Exam 2]({{ site.baseurl }}/files/mock-2-final-ans.pdf)
