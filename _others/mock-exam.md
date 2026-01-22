@@ -12,17 +12,16 @@ nav_order: 0
 
 Below we provide mid-term exams from previous years and the answers.
 
-- [2024 Mid-term Exam]({{ site.baseurl }}/files/2024-mid-term-exam.pdf)
-- [2024 Answer Mid-term Exam]({{ site.baseurl }}/files/2024-mid-term-exam-answer.pdf)
-- [2023 Mid-term Exam]({{ site.baseurl }}/files/2023-mid-term-exam.pdf)
-  - Note that in Question 25, the zipcode columns contain only strings (not integers).
-- [2023 Answer Mid-term Exam]({{ site.baseurl }}/files/2023-mid-term-exam-answer.pdf)
+- [Mock Mid-term Exam 2]({{ site.baseurl }}/files/mock-2-mid.pdf)
+- [Mock Answer Mid-term Exam 2]({{ site.baseurl }}/files/mock-2-mid-ans.pdf)
+- [Mock Mid-term Exam 1]({{ site.baseurl }}/files/mock-1-mid.pdf)
+- [Mock Answer Mid-term Exam 1]({{ site.baseurl }}/files/mock-1-mid-ans.pdf)
 
 ## Final Exam
 
 Below we provide final exams from previous years and the answers.
 
-- [2024 Final Exam]({{ site.baseurl }}/files/2024-final-exam.pdf)
-- [2024 Answer Final Exam]({{ site.baseurl }}/files/2024-final-exam-answer.pdf)
-- [2023 Final Exam]({{ site.baseurl }}/files/2023-final-exam.pdf)
-- [2023 Answer Final Exam]({{ site.baseurl }}/files/2023-final-exam-answer.pdf)
+- [Mock Final Exam 2]({{ site.baseurl }}/files/mock-2-final.pdf)
+- [Answer - Mock Final Exam 2]({{ site.baseurl }}/files/mock-2-final-ans.pdf)
+- [Mock Final Exam 1]({{ site.baseurl }}/files/mock-1-final.pdf)
+- [Answer - Mock Final Exam 1]({{ site.baseurl }}/files/mock-1-final-ans.pdf)

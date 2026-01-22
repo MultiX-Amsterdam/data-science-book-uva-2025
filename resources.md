@@ -159,7 +159,8 @@ Below is a list of course notes and materials for human-centered AI topics:
 
 Below is a list of course notes and materials for multimodal learning.
 
-- [11-777: Multimodal Machine Learning, Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2023/)
+- [11-777: Multimodal Machine Learning, Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2023/schedule/)
+- [11-877: Advanced Topics in Multimodal Machine Learning, Carnegie Mellon University](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/schedule/)
 
 ## Videos
 
