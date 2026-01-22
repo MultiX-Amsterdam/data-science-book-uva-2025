@@ -13,9 +13,9 @@ nav_order: 0
 Below we provide mid-term exams from previous years and the answers.
 
 - [Mock Mid-term Exam 2]({{ site.baseurl }}/files/mock-2-mid.pdf)
-- [Mock Answer Mid-term Exam 2]({{ site.baseurl }}/files/mock-2-mid-ans.pdf)
+- [Answer - Mock Mid-term Exam 2]({{ site.baseurl }}/files/mock-2-mid-ans.pdf)
 - [Mock Mid-term Exam 1]({{ site.baseurl }}/files/mock-1-mid.pdf)
-- [Mock Answer Mid-term Exam 1]({{ site.baseurl }}/files/mock-1-mid-ans.pdf)
+- [Answer - Mock Mid-term Exam 1]({{ site.baseurl }}/files/mock-1-mid-ans.pdf)
 
 ## Final Exam
 
