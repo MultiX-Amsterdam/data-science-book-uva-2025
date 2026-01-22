@@ -2,10 +2,10 @@ title: UvA Data Science
 description: Data Science Course at the University of Amsterdam
 theme: just-the-docs
 
-url: https://multix-amsterdam.github.io/data-science-book-uva
+url: https://multix-amsterdam.github.io/data-science-book-uva-2025
 
 aux_links:
-  GitHub: https://github.com/MultiX-Amsterdam/data-science-book-uva
+  GitHub: https://github.com/MultiX-Amsterdam/data-science-book-uva-2025
 
 collections:
   lectures:
